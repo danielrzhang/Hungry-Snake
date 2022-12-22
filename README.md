@@ -1,2 +1,2 @@
 # Hungry-Snake
-A parody of the popular game Snake
+A parody of the popular game Snake.
